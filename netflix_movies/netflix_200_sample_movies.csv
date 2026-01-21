@@ -1,0 +1,201 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s0001,Movie,Sample Movie 1,Director 31,"Actor A, Actor B, Actor C",France,"July 02, 2023",2018,PG-13,88 min,Action,This is a sample movie description used for academic purposes.
+s0002,Movie,Sample Movie 2,Director 28,"Actor A, Actor B, Actor C",Canada,"November 24, 2024",2002,PG,94 min,Thriller,This is a sample movie description used for academic purposes.
+s0003,Movie,Sample Movie 3,Director 26,"Actor A, Actor B, Actor C",India,"June 14, 2018",2002,TV-MA,159 min,Thriller,This is a sample movie description used for academic purposes.
+s0004,Movie,Sample Movie 4,Director 26,"Actor A, Actor B, Actor C",Brazil,"June 23, 2022",2011,TV-14,117 min,Action,This is a sample movie description used for academic purposes.
+s0005,Movie,Sample Movie 5,Director 43,"Actor A, Actor B, Actor C",United Kingdom,"May 07, 2015",1999,G,102 min,Action,This is a sample movie description used for academic purposes.
+s0006,Movie,Sample Movie 6,Director 19,"Actor A, Actor B, Actor C",Spain,"December 14, 2020",2012,TV-14,86 min,Thriller,This is a sample movie description used for academic purposes.
+s0007,Movie,Sample Movie 7,Director 14,"Actor A, Actor B, Actor C",Germany,"August 19, 2019",1989,G,168 min,Drama,This is a sample movie description used for academic purposes.
+s0008,Movie,Sample Movie 8,Director 10,"Actor A, Actor B, Actor C",India,"March 15, 2015",2013,PG-13,156 min,Documentary,This is a sample movie description used for academic purposes.
+s0009,Movie,Sample Movie 9,Director 25,"Actor A, Actor B, Actor C",Brazil,"June 09, 2021",1983,R,84 min,Thriller,This is a sample movie description used for academic purposes.
+s0010,Movie,Sample Movie 10,Director 33,"Actor A, Actor B, Actor C",India,"November 06, 2021",2019,PG,151 min,Drama,This is a sample movie description used for academic purposes.
+s0011,Movie,Sample Movie 11,Director 22,"Actor A, Actor B, Actor C",Brazil,"November 21, 2021",1999,PG-13,164 min,Comedy,This is a sample movie description used for academic purposes.
+s0012,Movie,Sample Movie 12,Director 3,"Actor A, Actor B, Actor C",United Kingdom,"January 07, 2016",2004,TV-14,179 min,Romance,This is a sample movie description used for academic purposes.
+s0013,Movie,Sample Movie 13,Director 25,"Actor A, Actor B, Actor C",France,"February 09, 2018",2023,TV-14,140 min,Action,This is a sample movie description used for academic purposes.
+s0014,Movie,Sample Movie 14,Director 13,"Actor A, Actor B, Actor C",France,"September 03, 2015",1990,TV-14,135 min,Romance,This is a sample movie description used for academic purposes.
+s0015,Movie,Sample Movie 15,Director 47,"Actor A, Actor B, Actor C",Brazil,"August 17, 2016",2018,PG-13,169 min,Thriller,This is a sample movie description used for academic purposes.
+s0016,Movie,Sample Movie 16,Director 9,"Actor A, Actor B, Actor C",Germany,"April 28, 2019",1996,PG,85 min,Documentary,This is a sample movie description used for academic purposes.
+s0017,Movie,Sample Movie 17,Director 30,"Actor A, Actor B, Actor C",Canada,"June 26, 2019",2004,TV-14,148 min,Romance,This is a sample movie description used for academic purposes.
+s0018,Movie,Sample Movie 18,Director 25,"Actor A, Actor B, Actor C",United States,"February 28, 2022",1987,PG-13,138 min,Documentary,This is a sample movie description used for academic purposes.
+s0019,Movie,Sample Movie 19,Director 5,"Actor A, Actor B, Actor C",Canada,"September 14, 2015",1991,PG-13,103 min,Drama,This is a sample movie description used for academic purposes.
+s0020,Movie,Sample Movie 20,Director 11,"Actor A, Actor B, Actor C",Spain,"November 15, 2015",1986,G,169 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0021,Movie,Sample Movie 21,Director 16,"Actor A, Actor B, Actor C",United Kingdom,"June 27, 2017",2008,G,170 min,Thriller,This is a sample movie description used for academic purposes.
+s0022,Movie,Sample Movie 22,Director 42,"Actor A, Actor B, Actor C",United Kingdom,"January 19, 2018",2016,PG-13,154 min,Thriller,This is a sample movie description used for academic purposes.
+s0023,Movie,Sample Movie 23,Director 23,"Actor A, Actor B, Actor C",United States,"April 22, 2020",1988,TV-14,107 min,Drama,This is a sample movie description used for academic purposes.
+s0024,Movie,Sample Movie 24,Director 2,"Actor A, Actor B, Actor C",United Kingdom,"July 17, 2017",2021,TV-14,112 min,Drama,This is a sample movie description used for academic purposes.
+s0025,Movie,Sample Movie 25,Director 44,"Actor A, Actor B, Actor C",India,"April 25, 2020",2002,TV-14,154 min,Romance,This is a sample movie description used for academic purposes.
+s0026,Movie,Sample Movie 26,Director 16,"Actor A, Actor B, Actor C",Brazil,"February 11, 2015",2010,G,104 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0027,Movie,Sample Movie 27,Director 10,"Actor A, Actor B, Actor C",India,"January 11, 2021",1988,PG,135 min,Documentary,This is a sample movie description used for academic purposes.
+s0028,Movie,Sample Movie 28,Director 27,"Actor A, Actor B, Actor C",Canada,"August 01, 2021",2010,TV-MA,119 min,Action,This is a sample movie description used for academic purposes.
+s0029,Movie,Sample Movie 29,Director 33,"Actor A, Actor B, Actor C",United Kingdom,"February 10, 2022",1994,PG-13,169 min,Comedy,This is a sample movie description used for academic purposes.
+s0030,Movie,Sample Movie 30,Director 18,"Actor A, Actor B, Actor C",France,"February 19, 2022",2019,G,163 min,Comedy,This is a sample movie description used for academic purposes.
+s0031,Movie,Sample Movie 31,Director 40,"Actor A, Actor B, Actor C",United States,"January 07, 2022",2011,PG,127 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0032,Movie,Sample Movie 32,Director 6,"Actor A, Actor B, Actor C",Canada,"September 14, 2019",2014,PG,150 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0033,Movie,Sample Movie 33,Director 7,"Actor A, Actor B, Actor C",India,"March 21, 2023",2015,PG,156 min,Romance,This is a sample movie description used for academic purposes.
+s0034,Movie,Sample Movie 34,Director 10,"Actor A, Actor B, Actor C",France,"March 23, 2021",2007,TV-MA,176 min,Comedy,This is a sample movie description used for academic purposes.
+s0035,Movie,Sample Movie 35,Director 50,"Actor A, Actor B, Actor C",Germany,"August 07, 2022",2022,PG,152 min,Drama,This is a sample movie description used for academic purposes.
+s0036,Movie,Sample Movie 36,Director 41,"Actor A, Actor B, Actor C",Spain,"April 08, 2024",1994,PG-13,164 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0037,Movie,Sample Movie 37,Director 35,"Actor A, Actor B, Actor C",Germany,"September 24, 2021",1982,G,132 min,Drama,This is a sample movie description used for academic purposes.
+s0038,Movie,Sample Movie 38,Director 39,"Actor A, Actor B, Actor C",United Kingdom,"October 03, 2018",1982,TV-MA,135 min,Comedy,This is a sample movie description used for academic purposes.
+s0039,Movie,Sample Movie 39,Director 42,"Actor A, Actor B, Actor C",United States,"December 19, 2023",1990,PG,179 min,Action,This is a sample movie description used for academic purposes.
+s0040,Movie,Sample Movie 40,Director 33,"Actor A, Actor B, Actor C",India,"July 25, 2022",1995,PG,178 min,Romance,This is a sample movie description used for academic purposes.
+s0041,Movie,Sample Movie 41,Director 20,"Actor A, Actor B, Actor C",France,"January 26, 2024",1995,PG,122 min,Comedy,This is a sample movie description used for academic purposes.
+s0042,Movie,Sample Movie 42,Director 32,"Actor A, Actor B, Actor C",Germany,"July 01, 2023",2021,R,123 min,Action,This is a sample movie description used for academic purposes.
+s0043,Movie,Sample Movie 43,Director 43,"Actor A, Actor B, Actor C",Germany,"January 26, 2022",2003,R,114 min,Comedy,This is a sample movie description used for academic purposes.
+s0044,Movie,Sample Movie 44,Director 20,"Actor A, Actor B, Actor C",United Kingdom,"October 10, 2020",1981,R,166 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0045,Movie,Sample Movie 45,Director 7,"Actor A, Actor B, Actor C",Brazil,"April 15, 2021",1980,TV-14,113 min,Drama,This is a sample movie description used for academic purposes.
+s0046,Movie,Sample Movie 46,Director 30,"Actor A, Actor B, Actor C",France,"February 27, 2018",2003,PG-13,149 min,Documentary,This is a sample movie description used for academic purposes.
+s0047,Movie,Sample Movie 47,Director 4,"Actor A, Actor B, Actor C",United States,"April 23, 2016",1984,TV-14,133 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0048,Movie,Sample Movie 48,Director 34,"Actor A, Actor B, Actor C",Brazil,"November 25, 2016",2009,PG,166 min,Documentary,This is a sample movie description used for academic purposes.
+s0049,Movie,Sample Movie 49,Director 19,"Actor A, Actor B, Actor C",Spain,"December 16, 2021",1984,TV-MA,151 min,Thriller,This is a sample movie description used for academic purposes.
+s0050,Movie,Sample Movie 50,Director 33,"Actor A, Actor B, Actor C",Canada,"January 02, 2015",1989,R,137 min,Documentary,This is a sample movie description used for academic purposes.
+s0051,Movie,Sample Movie 51,Director 50,"Actor A, Actor B, Actor C",Spain,"July 08, 2018",1985,G,123 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0052,Movie,Sample Movie 52,Director 28,"Actor A, Actor B, Actor C",Canada,"May 13, 2024",1989,TV-MA,147 min,Documentary,This is a sample movie description used for academic purposes.
+s0053,Movie,Sample Movie 53,Director 29,"Actor A, Actor B, Actor C",India,"November 03, 2023",2001,TV-MA,123 min,Thriller,This is a sample movie description used for academic purposes.
+s0054,Movie,Sample Movie 54,Director 19,"Actor A, Actor B, Actor C",France,"May 17, 2017",2008,PG,127 min,Documentary,This is a sample movie description used for academic purposes.
+s0055,Movie,Sample Movie 55,Director 33,"Actor A, Actor B, Actor C",United States,"July 26, 2016",1981,TV-14,125 min,Drama,This is a sample movie description used for academic purposes.
+s0056,Movie,Sample Movie 56,Director 14,"Actor A, Actor B, Actor C",France,"July 08, 2021",2012,R,166 min,Action,This is a sample movie description used for academic purposes.
+s0057,Movie,Sample Movie 57,Director 46,"Actor A, Actor B, Actor C",France,"February 14, 2016",1989,R,113 min,Comedy,This is a sample movie description used for academic purposes.
+s0058,Movie,Sample Movie 58,Director 25,"Actor A, Actor B, Actor C",India,"June 16, 2016",1980,TV-14,160 min,Romance,This is a sample movie description used for academic purposes.
+s0059,Movie,Sample Movie 59,Director 33,"Actor A, Actor B, Actor C",United States,"August 22, 2016",1980,R,109 min,Comedy,This is a sample movie description used for academic purposes.
+s0060,Movie,Sample Movie 60,Director 4,"Actor A, Actor B, Actor C",Spain,"February 12, 2017",2002,PG,178 min,Drama,This is a sample movie description used for academic purposes.
+s0061,Movie,Sample Movie 61,Director 44,"Actor A, Actor B, Actor C",India,"October 17, 2023",1986,TV-MA,119 min,Thriller,This is a sample movie description used for academic purposes.
+s0062,Movie,Sample Movie 62,Director 5,"Actor A, Actor B, Actor C",Spain,"March 22, 2020",1995,PG-13,137 min,Romance,This is a sample movie description used for academic purposes.
+s0063,Movie,Sample Movie 63,Director 43,"Actor A, Actor B, Actor C",United States,"August 20, 2020",1988,G,99 min,Documentary,This is a sample movie description used for academic purposes.
+s0064,Movie,Sample Movie 64,Director 42,"Actor A, Actor B, Actor C",Spain,"December 14, 2023",2009,TV-MA,87 min,Drama,This is a sample movie description used for academic purposes.
+s0065,Movie,Sample Movie 65,Director 10,"Actor A, Actor B, Actor C",Brazil,"July 11, 2022",1998,PG,164 min,Romance,This is a sample movie description used for academic purposes.
+s0066,Movie,Sample Movie 66,Director 31,"Actor A, Actor B, Actor C",Brazil,"May 26, 2018",2007,PG,172 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0067,Movie,Sample Movie 67,Director 13,"Actor A, Actor B, Actor C",India,"May 22, 2017",2017,G,99 min,Comedy,This is a sample movie description used for academic purposes.
+s0068,Movie,Sample Movie 68,Director 6,"Actor A, Actor B, Actor C",United Kingdom,"December 08, 2017",2020,TV-14,167 min,Romance,This is a sample movie description used for academic purposes.
+s0069,Movie,Sample Movie 69,Director 24,"Actor A, Actor B, Actor C",Brazil,"September 07, 2017",1991,PG,85 min,Romance,This is a sample movie description used for academic purposes.
+s0070,Movie,Sample Movie 70,Director 19,"Actor A, Actor B, Actor C",United States,"May 15, 2019",2018,PG-13,101 min,Action,This is a sample movie description used for academic purposes.
+s0071,Movie,Sample Movie 71,Director 15,"Actor A, Actor B, Actor C",United States,"October 05, 2017",1994,TV-MA,150 min,Romance,This is a sample movie description used for academic purposes.
+s0072,Movie,Sample Movie 72,Director 38,"Actor A, Actor B, Actor C",India,"February 02, 2022",1985,R,149 min,Romance,This is a sample movie description used for academic purposes.
+s0073,Movie,Sample Movie 73,Director 26,"Actor A, Actor B, Actor C",United Kingdom,"June 03, 2019",2009,TV-MA,173 min,Romance,This is a sample movie description used for academic purposes.
+s0074,Movie,Sample Movie 74,Director 31,"Actor A, Actor B, Actor C",Spain,"November 22, 2024",2016,R,149 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0075,Movie,Sample Movie 75,Director 32,"Actor A, Actor B, Actor C",Spain,"February 07, 2020",2004,R,152 min,Romance,This is a sample movie description used for academic purposes.
+s0076,Movie,Sample Movie 76,Director 22,"Actor A, Actor B, Actor C",India,"July 24, 2022",2021,TV-MA,152 min,Drama,This is a sample movie description used for academic purposes.
+s0077,Movie,Sample Movie 77,Director 1,"Actor A, Actor B, Actor C",Spain,"October 10, 2020",1989,TV-MA,152 min,Comedy,This is a sample movie description used for academic purposes.
+s0078,Movie,Sample Movie 78,Director 50,"Actor A, Actor B, Actor C",Spain,"December 04, 2015",2008,TV-MA,160 min,Drama,This is a sample movie description used for academic purposes.
+s0079,Movie,Sample Movie 79,Director 8,"Actor A, Actor B, Actor C",Brazil,"November 26, 2017",2009,TV-14,151 min,Romance,This is a sample movie description used for academic purposes.
+s0080,Movie,Sample Movie 80,Director 38,"Actor A, Actor B, Actor C",United Kingdom,"September 01, 2021",1981,PG,87 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0081,Movie,Sample Movie 81,Director 18,"Actor A, Actor B, Actor C",Canada,"November 26, 2024",2008,PG,100 min,Romance,This is a sample movie description used for academic purposes.
+s0082,Movie,Sample Movie 82,Director 42,"Actor A, Actor B, Actor C",United States,"September 11, 2023",2021,PG-13,175 min,Drama,This is a sample movie description used for academic purposes.
+s0083,Movie,Sample Movie 83,Director 3,"Actor A, Actor B, Actor C",Spain,"July 27, 2023",1993,R,165 min,Comedy,This is a sample movie description used for academic purposes.
+s0084,Movie,Sample Movie 84,Director 36,"Actor A, Actor B, Actor C",Germany,"February 20, 2017",1996,TV-MA,163 min,Documentary,This is a sample movie description used for academic purposes.
+s0085,Movie,Sample Movie 85,Director 41,"Actor A, Actor B, Actor C",United States,"March 25, 2016",2004,PG,138 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0086,Movie,Sample Movie 86,Director 9,"Actor A, Actor B, Actor C",Canada,"October 17, 2021",1998,G,150 min,Documentary,This is a sample movie description used for academic purposes.
+s0087,Movie,Sample Movie 87,Director 36,"Actor A, Actor B, Actor C",France,"January 28, 2017",1991,G,155 min,Drama,This is a sample movie description used for academic purposes.
+s0088,Movie,Sample Movie 88,Director 35,"Actor A, Actor B, Actor C",France,"January 22, 2021",2016,PG-13,176 min,Thriller,This is a sample movie description used for academic purposes.
+s0089,Movie,Sample Movie 89,Director 49,"Actor A, Actor B, Actor C",United Kingdom,"July 26, 2021",2015,PG,125 min,Documentary,This is a sample movie description used for academic purposes.
+s0090,Movie,Sample Movie 90,Director 18,"Actor A, Actor B, Actor C",France,"September 08, 2018",2005,R,122 min,Action,This is a sample movie description used for academic purposes.
+s0091,Movie,Sample Movie 91,Director 12,"Actor A, Actor B, Actor C",Canada,"January 09, 2016",2002,TV-MA,145 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0092,Movie,Sample Movie 92,Director 34,"Actor A, Actor B, Actor C",France,"December 26, 2016",1981,PG,81 min,Thriller,This is a sample movie description used for academic purposes.
+s0093,Movie,Sample Movie 93,Director 18,"Actor A, Actor B, Actor C",France,"October 16, 2023",1993,R,89 min,Comedy,This is a sample movie description used for academic purposes.
+s0094,Movie,Sample Movie 94,Director 19,"Actor A, Actor B, Actor C",Canada,"June 01, 2022",2017,R,128 min,Documentary,This is a sample movie description used for academic purposes.
+s0095,Movie,Sample Movie 95,Director 26,"Actor A, Actor B, Actor C",France,"July 14, 2018",2018,R,92 min,Documentary,This is a sample movie description used for academic purposes.
+s0096,Movie,Sample Movie 96,Director 12,"Actor A, Actor B, Actor C",United States,"April 16, 2022",2011,G,131 min,Documentary,This is a sample movie description used for academic purposes.
+s0097,Movie,Sample Movie 97,Director 48,"Actor A, Actor B, Actor C",United States,"July 16, 2021",2006,PG-13,175 min,Romance,This is a sample movie description used for academic purposes.
+s0098,Movie,Sample Movie 98,Director 17,"Actor A, Actor B, Actor C",United States,"June 15, 2018",2001,PG,102 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0099,Movie,Sample Movie 99,Director 47,"Actor A, Actor B, Actor C",Brazil,"October 11, 2020",1982,R,134 min,Romance,This is a sample movie description used for academic purposes.
+s0100,Movie,Sample Movie 100,Director 39,"Actor A, Actor B, Actor C",Spain,"February 04, 2017",2007,R,80 min,Thriller,This is a sample movie description used for academic purposes.
+s0101,Movie,Sample Movie 101,Director 7,"Actor A, Actor B, Actor C",Germany,"April 12, 2020",1986,G,106 min,Thriller,This is a sample movie description used for academic purposes.
+s0102,Movie,Sample Movie 102,Director 1,"Actor A, Actor B, Actor C",Canada,"September 20, 2021",1984,PG,138 min,Thriller,This is a sample movie description used for academic purposes.
+s0103,Movie,Sample Movie 103,Director 39,"Actor A, Actor B, Actor C",Spain,"March 26, 2022",1983,TV-MA,124 min,Thriller,This is a sample movie description used for academic purposes.
+s0104,Movie,Sample Movie 104,Director 46,"Actor A, Actor B, Actor C",India,"March 23, 2016",1990,R,80 min,Drama,This is a sample movie description used for academic purposes.
+s0105,Movie,Sample Movie 105,Director 12,"Actor A, Actor B, Actor C",United States,"January 11, 2019",1986,R,118 min,Documentary,This is a sample movie description used for academic purposes.
+s0106,Movie,Sample Movie 106,Director 10,"Actor A, Actor B, Actor C",Brazil,"May 08, 2024",2020,TV-MA,122 min,Drama,This is a sample movie description used for academic purposes.
+s0107,Movie,Sample Movie 107,Director 19,"Actor A, Actor B, Actor C",United Kingdom,"August 06, 2020",1992,G,87 min,Thriller,This is a sample movie description used for academic purposes.
+s0108,Movie,Sample Movie 108,Director 10,"Actor A, Actor B, Actor C",France,"March 25, 2023",1992,PG,153 min,Action,This is a sample movie description used for academic purposes.
+s0109,Movie,Sample Movie 109,Director 39,"Actor A, Actor B, Actor C",Spain,"April 12, 2019",2016,R,95 min,Comedy,This is a sample movie description used for academic purposes.
+s0110,Movie,Sample Movie 110,Director 45,"Actor A, Actor B, Actor C",Spain,"August 05, 2023",2010,R,153 min,Drama,This is a sample movie description used for academic purposes.
+s0111,Movie,Sample Movie 111,Director 17,"Actor A, Actor B, Actor C",India,"September 05, 2018",2019,R,150 min,Documentary,This is a sample movie description used for academic purposes.
+s0112,Movie,Sample Movie 112,Director 34,"Actor A, Actor B, Actor C",India,"July 27, 2024",2022,TV-14,128 min,Thriller,This is a sample movie description used for academic purposes.
+s0113,Movie,Sample Movie 113,Director 1,"Actor A, Actor B, Actor C",India,"July 03, 2022",2005,PG,176 min,Action,This is a sample movie description used for academic purposes.
+s0114,Movie,Sample Movie 114,Director 2,"Actor A, Actor B, Actor C",Brazil,"June 26, 2019",2018,TV-MA,136 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0115,Movie,Sample Movie 115,Director 18,"Actor A, Actor B, Actor C",Canada,"June 15, 2023",1984,TV-14,157 min,Action,This is a sample movie description used for academic purposes.
+s0116,Movie,Sample Movie 116,Director 26,"Actor A, Actor B, Actor C",United Kingdom,"August 19, 2024",2014,G,83 min,Romance,This is a sample movie description used for academic purposes.
+s0117,Movie,Sample Movie 117,Director 29,"Actor A, Actor B, Actor C",United Kingdom,"February 10, 2019",1987,PG-13,108 min,Drama,This is a sample movie description used for academic purposes.
+s0118,Movie,Sample Movie 118,Director 1,"Actor A, Actor B, Actor C",India,"December 12, 2020",1989,TV-14,121 min,Thriller,This is a sample movie description used for academic purposes.
+s0119,Movie,Sample Movie 119,Director 9,"Actor A, Actor B, Actor C",India,"July 26, 2023",1998,PG-13,110 min,Comedy,This is a sample movie description used for academic purposes.
+s0120,Movie,Sample Movie 120,Director 47,"Actor A, Actor B, Actor C",Brazil,"August 09, 2021",1999,PG,100 min,Comedy,This is a sample movie description used for academic purposes.
+s0121,Movie,Sample Movie 121,Director 9,"Actor A, Actor B, Actor C",Germany,"June 25, 2022",1994,G,122 min,Drama,This is a sample movie description used for academic purposes.
+s0122,Movie,Sample Movie 122,Director 40,"Actor A, Actor B, Actor C",United States,"July 04, 2016",1985,G,119 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0123,Movie,Sample Movie 123,Director 40,"Actor A, Actor B, Actor C",Spain,"March 10, 2015",2016,TV-MA,113 min,Thriller,This is a sample movie description used for academic purposes.
+s0124,Movie,Sample Movie 124,Director 27,"Actor A, Actor B, Actor C",India,"July 20, 2022",1992,R,133 min,Documentary,This is a sample movie description used for academic purposes.
+s0125,Movie,Sample Movie 125,Director 22,"Actor A, Actor B, Actor C",Germany,"January 21, 2021",2003,G,141 min,Romance,This is a sample movie description used for academic purposes.
+s0126,Movie,Sample Movie 126,Director 34,"Actor A, Actor B, Actor C",France,"September 24, 2017",2001,PG-13,120 min,Documentary,This is a sample movie description used for academic purposes.
+s0127,Movie,Sample Movie 127,Director 26,"Actor A, Actor B, Actor C",France,"January 11, 2024",1984,PG,117 min,Romance,This is a sample movie description used for academic purposes.
+s0128,Movie,Sample Movie 128,Director 43,"Actor A, Actor B, Actor C",India,"April 15, 2020",2021,PG-13,88 min,Comedy,This is a sample movie description used for academic purposes.
+s0129,Movie,Sample Movie 129,Director 15,"Actor A, Actor B, Actor C",United States,"April 11, 2019",1988,G,94 min,Romance,This is a sample movie description used for academic purposes.
+s0130,Movie,Sample Movie 130,Director 2,"Actor A, Actor B, Actor C",Brazil,"May 26, 2017",1989,TV-MA,93 min,Action,This is a sample movie description used for academic purposes.
+s0131,Movie,Sample Movie 131,Director 4,"Actor A, Actor B, Actor C",United States,"March 18, 2016",2013,R,138 min,Action,This is a sample movie description used for academic purposes.
+s0132,Movie,Sample Movie 132,Director 43,"Actor A, Actor B, Actor C",Brazil,"October 27, 2024",1991,PG-13,116 min,Romance,This is a sample movie description used for academic purposes.
+s0133,Movie,Sample Movie 133,Director 23,"Actor A, Actor B, Actor C",India,"March 19, 2016",1993,TV-14,108 min,Thriller,This is a sample movie description used for academic purposes.
+s0134,Movie,Sample Movie 134,Director 45,"Actor A, Actor B, Actor C",India,"August 19, 2023",2012,R,138 min,Comedy,This is a sample movie description used for academic purposes.
+s0135,Movie,Sample Movie 135,Director 26,"Actor A, Actor B, Actor C",United States,"January 14, 2016",1989,PG-13,125 min,Romance,This is a sample movie description used for academic purposes.
+s0136,Movie,Sample Movie 136,Director 33,"Actor A, Actor B, Actor C",India,"March 12, 2021",1993,TV-14,142 min,Documentary,This is a sample movie description used for academic purposes.
+s0137,Movie,Sample Movie 137,Director 22,"Actor A, Actor B, Actor C",Germany,"June 26, 2015",2019,PG-13,148 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0138,Movie,Sample Movie 138,Director 20,"Actor A, Actor B, Actor C",Spain,"July 16, 2022",2001,TV-14,93 min,Comedy,This is a sample movie description used for academic purposes.
+s0139,Movie,Sample Movie 139,Director 3,"Actor A, Actor B, Actor C",Canada,"March 08, 2018",1981,PG-13,165 min,Drama,This is a sample movie description used for academic purposes.
+s0140,Movie,Sample Movie 140,Director 3,"Actor A, Actor B, Actor C",United Kingdom,"December 13, 2015",1987,PG-13,105 min,Action,This is a sample movie description used for academic purposes.
+s0141,Movie,Sample Movie 141,Director 49,"Actor A, Actor B, Actor C",Canada,"March 19, 2015",2019,G,126 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0142,Movie,Sample Movie 142,Director 8,"Actor A, Actor B, Actor C",Spain,"September 04, 2019",1993,PG-13,152 min,Thriller,This is a sample movie description used for academic purposes.
+s0143,Movie,Sample Movie 143,Director 41,"Actor A, Actor B, Actor C",Canada,"July 09, 2024",1984,TV-14,168 min,Action,This is a sample movie description used for academic purposes.
+s0144,Movie,Sample Movie 144,Director 4,"Actor A, Actor B, Actor C",United States,"December 10, 2017",1989,TV-MA,83 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0145,Movie,Sample Movie 145,Director 12,"Actor A, Actor B, Actor C",India,"November 08, 2023",2010,TV-MA,144 min,Romance,This is a sample movie description used for academic purposes.
+s0146,Movie,Sample Movie 146,Director 48,"Actor A, Actor B, Actor C",Spain,"February 03, 2015",2024,TV-MA,100 min,Drama,This is a sample movie description used for academic purposes.
+s0147,Movie,Sample Movie 147,Director 29,"Actor A, Actor B, Actor C",Brazil,"December 23, 2018",1986,TV-14,90 min,Comedy,This is a sample movie description used for academic purposes.
+s0148,Movie,Sample Movie 148,Director 1,"Actor A, Actor B, Actor C",Canada,"September 06, 2024",2003,PG-13,175 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0149,Movie,Sample Movie 149,Director 30,"Actor A, Actor B, Actor C",Spain,"October 26, 2024",1980,PG,148 min,Documentary,This is a sample movie description used for academic purposes.
+s0150,Movie,Sample Movie 150,Director 40,"Actor A, Actor B, Actor C",United States,"December 09, 2018",1993,R,170 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0151,Movie,Sample Movie 151,Director 45,"Actor A, Actor B, Actor C",Spain,"October 04, 2022",2011,G,169 min,Action,This is a sample movie description used for academic purposes.
+s0152,Movie,Sample Movie 152,Director 34,"Actor A, Actor B, Actor C",France,"February 08, 2016",2017,R,96 min,Action,This is a sample movie description used for academic purposes.
+s0153,Movie,Sample Movie 153,Director 33,"Actor A, Actor B, Actor C",United Kingdom,"July 21, 2023",2023,TV-14,151 min,Romance,This is a sample movie description used for academic purposes.
+s0154,Movie,Sample Movie 154,Director 30,"Actor A, Actor B, Actor C",Brazil,"August 20, 2024",2003,TV-14,128 min,Drama,This is a sample movie description used for academic purposes.
+s0155,Movie,Sample Movie 155,Director 46,"Actor A, Actor B, Actor C",Brazil,"February 13, 2019",1984,TV-14,97 min,Documentary,This is a sample movie description used for academic purposes.
+s0156,Movie,Sample Movie 156,Director 1,"Actor A, Actor B, Actor C",Spain,"April 26, 2020",2005,G,149 min,Thriller,This is a sample movie description used for academic purposes.
+s0157,Movie,Sample Movie 157,Director 27,"Actor A, Actor B, Actor C",Brazil,"August 09, 2021",2024,TV-MA,86 min,Thriller,This is a sample movie description used for academic purposes.
+s0158,Movie,Sample Movie 158,Director 28,"Actor A, Actor B, Actor C",Germany,"December 14, 2016",2002,TV-14,96 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0159,Movie,Sample Movie 159,Director 8,"Actor A, Actor B, Actor C",France,"March 23, 2020",1995,PG-13,98 min,Documentary,This is a sample movie description used for academic purposes.
+s0160,Movie,Sample Movie 160,Director 19,"Actor A, Actor B, Actor C",Canada,"June 03, 2022",1995,R,171 min,Comedy,This is a sample movie description used for academic purposes.
+s0161,Movie,Sample Movie 161,Director 22,"Actor A, Actor B, Actor C",Germany,"January 12, 2017",2003,TV-MA,116 min,Action,This is a sample movie description used for academic purposes.
+s0162,Movie,Sample Movie 162,Director 16,"Actor A, Actor B, Actor C",India,"March 23, 2022",2006,TV-MA,131 min,Romance,This is a sample movie description used for academic purposes.
+s0163,Movie,Sample Movie 163,Director 18,"Actor A, Actor B, Actor C",Canada,"May 16, 2021",2004,R,133 min,Documentary,This is a sample movie description used for academic purposes.
+s0164,Movie,Sample Movie 164,Director 43,"Actor A, Actor B, Actor C",United States,"November 10, 2019",2000,G,121 min,Documentary,This is a sample movie description used for academic purposes.
+s0165,Movie,Sample Movie 165,Director 9,"Actor A, Actor B, Actor C",United Kingdom,"December 03, 2023",2024,TV-14,180 min,Action,This is a sample movie description used for academic purposes.
+s0166,Movie,Sample Movie 166,Director 1,"Actor A, Actor B, Actor C",Canada,"October 13, 2021",2018,TV-14,172 min,Thriller,This is a sample movie description used for academic purposes.
+s0167,Movie,Sample Movie 167,Director 31,"Actor A, Actor B, Actor C",France,"September 20, 2018",1984,G,126 min,Documentary,This is a sample movie description used for academic purposes.
+s0168,Movie,Sample Movie 168,Director 45,"Actor A, Actor B, Actor C",India,"October 14, 2015",1988,R,178 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0169,Movie,Sample Movie 169,Director 19,"Actor A, Actor B, Actor C",France,"August 23, 2021",2003,G,118 min,Thriller,This is a sample movie description used for academic purposes.
+s0170,Movie,Sample Movie 170,Director 40,"Actor A, Actor B, Actor C",United Kingdom,"January 05, 2015",2001,G,120 min,Comedy,This is a sample movie description used for academic purposes.
+s0171,Movie,Sample Movie 171,Director 32,"Actor A, Actor B, Actor C",Brazil,"January 03, 2018",2024,R,157 min,Drama,This is a sample movie description used for academic purposes.
+s0172,Movie,Sample Movie 172,Director 10,"Actor A, Actor B, Actor C",France,"March 12, 2019",1997,R,85 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0173,Movie,Sample Movie 173,Director 22,"Actor A, Actor B, Actor C",United States,"October 04, 2015",2002,R,87 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0174,Movie,Sample Movie 174,Director 30,"Actor A, Actor B, Actor C",India,"January 06, 2019",2007,R,158 min,Documentary,This is a sample movie description used for academic purposes.
+s0175,Movie,Sample Movie 175,Director 46,"Actor A, Actor B, Actor C",Canada,"December 05, 2021",2018,PG,113 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0176,Movie,Sample Movie 176,Director 14,"Actor A, Actor B, Actor C",India,"September 05, 2020",2023,TV-14,138 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0177,Movie,Sample Movie 177,Director 1,"Actor A, Actor B, Actor C",Canada,"March 13, 2024",2012,G,120 min,Thriller,This is a sample movie description used for academic purposes.
+s0178,Movie,Sample Movie 178,Director 40,"Actor A, Actor B, Actor C",France,"October 27, 2021",1981,PG-13,162 min,Comedy,This is a sample movie description used for academic purposes.
+s0179,Movie,Sample Movie 179,Director 26,"Actor A, Actor B, Actor C",Spain,"July 01, 2022",2007,R,162 min,Thriller,This is a sample movie description used for academic purposes.
+s0180,Movie,Sample Movie 180,Director 38,"Actor A, Actor B, Actor C",Brazil,"October 19, 2016",1989,G,175 min,Action,This is a sample movie description used for academic purposes.
+s0181,Movie,Sample Movie 181,Director 5,"Actor A, Actor B, Actor C",United States,"August 13, 2017",2007,TV-14,164 min,Sci-Fi,This is a sample movie description used for academic purposes.
+s0182,Movie,Sample Movie 182,Director 31,"Actor A, Actor B, Actor C",United Kingdom,"June 27, 2021",1981,TV-14,110 min,Comedy,This is a sample movie description used for academic purposes.
+s0183,Movie,Sample Movie 183,Director 12,"Actor A, Actor B, Actor C",India,"December 03, 2020",1993,PG,163 min,Comedy,This is a sample movie description used for academic purposes.
+s0184,Movie,Sample Movie 184,Director 15,"Actor A, Actor B, Actor C",United States,"June 20, 2019",1981,TV-14,177 min,Documentary,This is a sample movie description used for academic purposes.
+s0185,Movie,Sample Movie 185,Director 25,"Actor A, Actor B, Actor C",Brazil,"December 20, 2015",2000,PG-13,89 min,Documentary,This is a sample movie description used for academic purposes.
+s0186,Movie,Sample Movie 186,Director 41,"Actor A, Actor B, Actor C",United States,"January 06, 2024",2002,PG,104 min,Drama,This is a sample movie description used for academic purposes.
+s0187,Movie,Sample Movie 187,Director 28,"Actor A, Actor B, Actor C",Canada,"January 03, 2015",2003,R,115 min,Documentary,This is a sample movie description used for academic purposes.
+s0188,Movie,Sample Movie 188,Director 40,"Actor A, Actor B, Actor C",India,"June 20, 2024",2002,PG-13,84 min,Thriller,This is a sample movie description used for academic purposes.
+s0189,Movie,Sample Movie 189,Director 21,"Actor A, Actor B, Actor C",Brazil,"May 04, 2017",2004,G,179 min,Documentary,This is a sample movie description used for academic purposes.
+s0190,Movie,Sample Movie 190,Director 5,"Actor A, Actor B, Actor C",Spain,"September 05, 2017",2017,PG-13,85 min,Romance,This is a sample movie description used for academic purposes.
+s0191,Movie,Sample Movie 191,Director 26,"Actor A, Actor B, Actor C",India,"July 12, 2016",2015,R,138 min,Thriller,This is a sample movie description used for academic purposes.
+s0192,Movie,Sample Movie 192,Director 34,"Actor A, Actor B, Actor C",Spain,"August 11, 2020",2007,PG,80 min,Romance,This is a sample movie description used for academic purposes.
+s0193,Movie,Sample Movie 193,Director 35,"Actor A, Actor B, Actor C",Canada,"August 05, 2015",1998,TV-14,151 min,Action,This is a sample movie description used for academic purposes.
+s0194,Movie,Sample Movie 194,Director 19,"Actor A, Actor B, Actor C",Brazil,"August 18, 2021",2006,TV-14,165 min,Comedy,This is a sample movie description used for academic purposes.
+s0195,Movie,Sample Movie 195,Director 5,"Actor A, Actor B, Actor C",Brazil,"May 15, 2015",2013,PG-13,160 min,Drama,This is a sample movie description used for academic purposes.
+s0196,Movie,Sample Movie 196,Director 22,"Actor A, Actor B, Actor C",Germany,"February 15, 2020",1993,G,122 min,Action,This is a sample movie description used for academic purposes.
+s0197,Movie,Sample Movie 197,Director 40,"Actor A, Actor B, Actor C",Germany,"June 27, 2016",2011,PG-13,173 min,Romance,This is a sample movie description used for academic purposes.
+s0198,Movie,Sample Movie 198,Director 8,"Actor A, Actor B, Actor C",India,"December 07, 2023",1989,TV-14,129 min,Romance,This is a sample movie description used for academic purposes.
+s0199,Movie,Sample Movie 199,Director 6,"Actor A, Actor B, Actor C",United Kingdom,"May 15, 2021",1982,R,143 min,Documentary,This is a sample movie description used for academic purposes.
+s0200,Movie,Sample Movie 200,Director 21,"Actor A, Actor B, Actor C",Germany,"February 28, 2022",1984,PG-13,134 min,Romance,This is a sample movie description used for academic purposes.
